@@ -1,4 +1,4 @@
-# 🚚 Supply Chain Service Performance – Power BI Project  
+# 🚚 Supply Chain Dashboard – Power BI Project  
 
 ## 🏢 Company: AtliQ Mart (Codebasics Resume Project Challenge #5)  
 🔗 Challenge Link: [Codebasics Resume Project Challenge #5](https://codebasics.io/challenges/codebasics-resume-project-challenge/5)  
@@ -57,19 +57,19 @@ The dashboard allows management to monitor service KPIs, identify problem custom
 ## 📸 Dashboard Views  
 
 ### 🏠 Home Page  
-![Home Page](Dashboard_view/Home_Page.png)  
+![Home Page](Dashboard_View/Home_Page.png)  
 
 ### 📊 Dashboard View  
-![Dashboard](Dashboard_view/Dashboard.png)  
+![Dashboard](Dashboard_View/Dashboard.png)  
 
 ### 🔍 Insights View  
-![Insights](Dashboard_view/Insights_View.png)  
+![Insights](Dashboard_View/Insights_View.png)  
 
 ### ✅ Recommendations View  
-![Recommendations](Dashboard_view/Recommendations_View.png)  
+![Recommendations](Dashboard_View/Recommendations_View.png)  
 
 ### 🗂 Data Model  
-![Data Model](Dashboard_view/Data_Model.png)  
+![Data Model](Dashboard_View/Data_Model.png)  
 
 ---
 
